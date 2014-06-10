@@ -22,11 +22,12 @@ section{
 }
 .wrapper{
     width: 100%;
-    overflow: hidden;
     min-height: 830px;
+    overflow: hidden;
     /*background-color: rgba(64, 56, 51, 0.8);
     /background-color: rgba(229, 78, 69, 0.8);*/
     background-color: rgba(50, 58, 70, 0.8);
+    background-size: 100% 1000px;
 }
 .container{
 
