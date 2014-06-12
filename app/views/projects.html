@@ -7,7 +7,10 @@
             <article class="col-md-6 col-sm-6 project-tile" ng-repeat="project in projects">
                 <div class="project-container">
                     <div class="project-img">
+                        
                         <img ng-src="{{project.image}}" alt="" class="img-responsive">
+                        <div class="cover"><a href="{{project.url}}">GitHub</a>
+                        </div>
                     </div>
                     <div class="project-description">
                         <p><span>Name</span>: {{project.name}}</p>

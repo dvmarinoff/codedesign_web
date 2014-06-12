@@ -47,7 +47,7 @@ var projectsArray = [
 	'url': 'https://github.com/dvmarinoff/telerik_academy/tree/master/javascript/hw_gallery'
 },
 {
-		'name': '2048, note: Coming on 15/06/2014',
+		'name': '2048, note: Coming on 15/06.2014',
 		'technologies': 'JavaScript, Canvas, Angular.js, Node.js',
 		'description': 'MEAN stack apllication with user authentication and authorization, profile dashboard and custom implemetation of the game 2048.',
 		'image': '../images/2048game.png',
