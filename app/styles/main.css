@@ -1,5 +1,7 @@
 /* Base ====================================================== */
 body{
+    width: 100%;
+    height: auto; 
     font-family: 'lucida sans unicode', 'lucida grande', 'Trebuchet MS', Verdana, arial, helvetica, helve, sans-serif; 
     font-size: 62.5%;
     background: url(../images/os_x_mavericks_standard-wallpaper-1024x768.jpg) no-repeat center center fixed; 
@@ -20,8 +22,9 @@ section{
     color: #F2F2EF;
 }
 .wrapper{
+    position: absolute;
     width: 100%;
-    min-height: 830px;
+    min-height: 100%;
     overflow: hidden;
     /*background-color: rgba(64, 56, 51, 0.8);
     /background-color: rgba(229, 78, 69, 0.8);*/
