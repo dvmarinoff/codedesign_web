@@ -14,8 +14,7 @@ var postsArray = [{
 	'content': lorem
 }];
 
-var projectsArray = [	
-{
+var projectsArray = [{
 	'name': 'Customers App',
 	'technologies': 'HTML, CSS, Angular.js',
 	'description': 'Customers and orders menagement web app',
@@ -45,12 +44,4 @@ var projectsArray = [
 	'description': 'A simple image gallery with lots of jQuery animations',
 	'image': '../images/mcgallery-1.png',
 	'url': 'https://github.com/dvmarinoff/telerik_academy/tree/master/javascript/hw_gallery'
-},
-{
-		'name': '2048, note: Coming on 15/06/2014',
-		'technologies': 'JavaScript, Canvas, Angular.js, Node.js',
-		'description': 'MEAN stack apllication with user authentication and authorization, profile dashboard and custom implemetation of the game 2048.',
-		'image': '../images/2048game.png',
-		'url': ''
-	}
-];
+}, ];
