@@ -20,14 +20,14 @@ var projectsArray = [
 	'technologies': 'Express.js, Sockets.io',
 	'description': 'A web chat',
 	'image': '../images/socket-chat.png',
-	'url': 'https://github.com/dvmarinoff/nodejs_apps/tree/master/socket_chat'
+	'url': ''
 },
 {
 	'name': 'Express Blog',
-	'technologies': 'Express.js, Twitter Bootstap',
+	'technologies': 'Express.js,',
 	'description': 'A simple blog made with Express.js',
-	'image': '../images/express-blog.png',
-	'url': 'https://github.com/dvmarinoff/nodejs_apps/tree/master/express_blog'
+	'image': '../images/express-chat.png',
+	'url': ''
 },
 {
 	'name': 'Customers App',

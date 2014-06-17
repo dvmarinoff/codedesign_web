@@ -30,8 +30,5 @@
     });
     
     // TODO: fix left property after returning to normal view
-    if(mobileMenu.css('display') == 'none') {
-        console.log(mobileMenu.css('display'));
-        wrapper.css('left', 0);
-    }
+	
 }());

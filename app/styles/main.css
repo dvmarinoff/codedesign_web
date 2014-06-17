@@ -4,7 +4,7 @@ body{
     height: auto; 
     font-family: 'lucida sans unicode', 'lucida grande', 'Trebuchet MS', Verdana, arial, helvetica, helve, sans-serif; 
     font-size: 62.5%;
-    background: url(../images/os_x_mavericks_standard-wallpaper-1024x768.jpg) no-repeat center center fixed; 
+    background: url(../images/bridge-1.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -176,10 +176,13 @@ ul li a:focus {
     font-size: 20px;
     font-weight: bold;
     color: #DBC390;
+	background-color: rgba(64, 56, 51, 0.4);
 }
 .front-cols p{
-    text-align: center;
-    margin: 5px;
+   text-align: left;
+   margin: 0px;
+	padding: 10px;
+	background-color: rgba(64, 56, 51, 0.4);
 }
 
 /* projects view */
